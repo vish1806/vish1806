@@ -1,7 +1,7 @@
 ![logo](https://github.com/vish1806/vish1806/blob/main/GITHUB%20PROFILE%20ICONS%20AND%20BANNERS%20V1.2%20%5BFREE%5D%20(Community).png)
 <h1 align="center">A Tech enthusiast from India</h1>
 
-<img aligh="right" alt="coding" width="400" src="https://github.com/vish1806/vish1806/blob/main/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"
+<img align="right" alt="coding" width="400" src="https://github.com/vish1806/vish1806/blob/main/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vish1806&label=Profile%20views&color=0e75b6&style=flat" alt="vish1806" /> </p>
 
