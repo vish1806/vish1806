@@ -1,15 +1,13 @@
 ![logo](https://github.com/vish1806/vish1806/blob/main/GITHUB%20PROFILE%20ICONS%20AND%20BANNERS%20V1.2%20%5BFREE%5D%20(Community).png)
 <h1 align="center">A Tech enthusiast from India</h1>
 
-<img align="center" alt="coding" width="400" src="https://github.com/vish1806/vish1806/blob/main/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vish1806&label=Profile%20views&color=0e75b6&style=flat" alt="vish1806" /> </p>
+<img align="center" alt="coding" width="875" src="https://github.com/vish1806/vish1806/blob/main/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vish1806" alt="vish1806" /></a> </p>
 
-- 📫 How to reach me **vishalganpathy@gmail.com**
+- 📫 How to reach me: **vishalganpathy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zElr3f-6IQaK59Tq9_PYq65gjenHGYx8/view?usp=drive_link](https://drive.google.com/file/d/1zElr3f-6IQaK59Tq9_PYq65gjenHGYx8/view?usp=drive_link)
+- 📄 Know about my experiences at: https://shorturl.at/foQ49
 
 - ⚡ Fun fact -  **I once aced a test without studying at all!**
 
@@ -27,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vish1806&show_icons=true&locale=en" alt="vish1806" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vish1806&" alt="vish1806" /></p>
+
+<p> Thank you for visiting! See you next time. </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vish1806&label=Profile%20views&color=0e75b6&style=flat" alt="vish1806" /> </p>
