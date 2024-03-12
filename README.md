@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vish1806" alt="vish1806" /></a> </p>
 
+- 🔭 I’ve completed a Full-stack MERN project [Bidhub](https://bidhub-frontend.vercel.app/)
+
 - 📫 How to reach me: **vishalganpathy@gmail.com**
 
 - 📄 Know about my experiences at: https://shorturl.at/foQ49
